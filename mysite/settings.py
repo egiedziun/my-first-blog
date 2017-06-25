@@ -25,7 +25,7 @@ SECRET_KEY = 'ibcv@-#p-0f(=3xzh%#ei-@xy$0eh3f_3tn#=19jk!c2(0a)(r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ewa.pythonanywhere.com']
 
 
 # Application definition
